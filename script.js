@@ -1,6 +1,8 @@
+const token = config.api
+
 const weather = {
     fetchWeather: function(city) {
-        fetch('https://api.openweathermap.org/data/2.5/weather?q=' + city + '&units=metric&appid=e814afec2defa16917fab288ce5da3ea&lang=sv', {
+        fetch('https://api.openweathermap.org/data/2.5/weather?q=' + city + '&units=metric&appid='+ token + '&lang=sv', {
             method: 'GET'
         })
         .then((response) => {
