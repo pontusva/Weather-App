@@ -1,4 +1,4 @@
-# Project using openweathermap api
+# openweathermap api
 You can search for all the cities openweathermap provides. 
 This webpage is in Swedish.
 
