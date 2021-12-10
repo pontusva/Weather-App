@@ -6,7 +6,7 @@ This webpage is in Swedish.
 Need to practice more CSS
 
 ### what I gained
-Deeper understanding of OOP
+working with objects
 
 #### What's next?
 I will work more with API's and the next one I am going to use is one called aztro
